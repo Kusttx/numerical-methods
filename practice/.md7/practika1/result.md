@@ -6,11 +6,11 @@
 
 ### График функции
 
-![График функции](screenshots/function_graph.png)
+![График функции](screenshots/function_graph2.png)
 
 ### Журналы и результаты работы
 
-![Результаты работы программы](screenshots/console_results.png)
+![Результаты работы программы](screenshots/console_results1.png)
 
 ### Ответы на вопросы
 
